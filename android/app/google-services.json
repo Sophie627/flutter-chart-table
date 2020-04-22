@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702279037125",
+    "firebase_url": "https://youtimizer-notifications.firebaseio.com",
+    "project_id": "youtimizer-notifications",
+    "storage_bucket": "youtimizer-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702279037125:android:51e8eba3e575ff313f80ac",
+        "android_client_info": {
+          "package_name": "com.youtimizer.youtimizerone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702279037125-94i2fn4m3bgbitcckdcf575vot2vllpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youtimizer.youtimizerone",
+            "certificate_hash": "fd14c5da16eca93632bba027616df1d1847e23bd"
+          }
+        },
+        {
+          "client_id": "702279037125-kqf6aifn2d7325m2gc6quvfob05k7i7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI2lE1NAb09jVT3xUhkd-NIhqlRxPud2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702279037125-kqf6aifn2d7325m2gc6quvfob05k7i7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
